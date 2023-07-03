@@ -1,2 +1,2 @@
 # face_composite
-2023-1 opencv
+2023-1 opencv term project
